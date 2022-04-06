@@ -1,4 +1,4 @@
-# Program for encrypting a word or numbers in known hashing algorithms
+# Program to encrypt words or numbers into famous hashing algorithms
 # The "hashlib" module must be installed
 # https://docs.python.org/3/library/hashlib.html
 
