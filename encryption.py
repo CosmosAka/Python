@@ -1,3 +1,7 @@
+# Program for encrypting a word or numbers in known hashing algorithms
+# The "hashlib" module must be installed
+# https://docs.python.org/3/library/hashlib.html
+
 import hashlib
 
 
